@@ -1,0 +1,8 @@
+{
+    "cooldown": "<a:wrongMark:975088845093740625> | Şu anda beklemedesin bu komutu tekrar {{remaining}} içinde kullanabilirsin.",
+    "argsMissing": "<a:wrongMark:975088845093740625> | Argümanlar eksik.",
+    "argsUnavailable": "<a:wrongMark:975088845093740625> | Argümanlar geçersiz.",
+    "preconditionGuildOnly": "<a:wrongMark:975088845093740625> | Bu komut sadece sunucularda çalıştırılabilir.",
+    "preconditionNSFW" : "<a:wrongMark:975088845093740625> | Bu komut sadece Yaş Sınırlı Kanallarda(NSFW) çalıştırılabilir.",
+    "preconditionUserPermissionsNoPermissions": "<a:wrongMark:975088845093740625> | Bu komutu kullanabilmek için {{perm}} lazım."
+}

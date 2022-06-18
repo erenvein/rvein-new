@@ -1,0 +1,5 @@
+{
+    "success": "<a:checkMark:975088677581639805> | Prefix has been set to {{prefixarg}}.",
+    "seven": "<a:wrongMark:975088845093740625> | Prefix can't be more than 7 characters.",
+    "whatis": "The prefix is {{prefix}} for this server."
+}

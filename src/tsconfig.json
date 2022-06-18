@@ -1,0 +1,12 @@
+{
+	"extends": "@sapphire/ts-config",
+	"compilerOptions": {
+		"noImplicitReturns": false,
+		"emitDecoratorMetadata": true,
+        "experimentalDecorators": true,
+		"rootDir": "./",
+    "module": "commonjs",
+    "target": "es2017",
+	},
+	"include": ["./"],
+}

@@ -1,0 +1,10 @@
+{
+  "projectLanguage": "ts",
+  "locations": {
+    "base": "src"
+  },
+  "customFileTemplates": {
+    "enabled": false,
+    "location": ""
+  }
+}

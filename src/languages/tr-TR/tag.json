@@ -1,0 +1,9 @@
+{
+    "tagExists": "<a:wrongMark:975088845093740625> | Bu tag zaten bulunuyor.",
+    "tagCreated": "<a:checkMark:975088677581639805> | {{name}} isimli tag başarıyla oluşturuldu.",
+    "tagDeleted": "<a:checkMark:975088677581639805> | {{name}} isimli tag başarıyla silindi.",
+    "tagNsfw": "<a:checkMark:975088677581639805> | {{name}} isimli tag nsfw kanallarına özel yapıldı.",
+    "tagNsfwTrue": "<a:wrongMark:975088845093740625> | Bu tag sadece nsfw kanallarda kullanılabilir.",
+    "tagNo": "<a:wrongMark:975088845093740625> | Bu tag bulunamıyor.",
+    "tagNsfw2": "<a:checkMark:975088677581639805> | Bu tag nsfw kanalları dışında kullanılmaya ayarlandı."
+}

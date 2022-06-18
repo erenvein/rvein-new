@@ -1,0 +1,5 @@
+{
+    "success": "<a:checkMark:975088677581639805> | Sunucunun prefixi {{prefixarg}} olarak ayarlandı.",
+   "seven": "<a:wrongMark:975088845093740625> | Prefix 7 karakterden fazla olamaz.",
+   "whatis": "Bu sunucun için prefix {{prefix}}."
+}

@@ -1,0 +1,8 @@
+{
+    "cooldown": "<a:wrongMark:975088845093740625> | You are in a cooldown you can use this command again in {{remainingn}}",
+    "argsMissing": "<a:wrongMark:975088845093740625> | Arguments are missing.",
+    "argsUnavailable": "<a:wrongMark:975088845093740625> | Arguments are unavailable.",
+    "preconditionGuildOnly": "<a:wrongMark:975088845093740625> | This command can only run in guilds.",
+    "preconditionNSFW" : "<a:wrongMark:975088845093740625> | This command canbe used in NSFW channels.",
+    "preconditionUserPermissionsNoPermissions": "<a:wrongMark:975088845093740625> | You need {{perm}} permission to run this command."
+}
